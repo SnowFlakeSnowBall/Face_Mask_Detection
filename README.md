@@ -7,7 +7,7 @@
 $ pip install -r requirements.txt
 ```
 **2. PLatforms:**
-- For Windows: Run like usual python programm;
+- For Windows: Run like a usual python programm;
 - For MacOS: change path in code for .xml, .h5, .jpeg:
 ```
 faceCascade = cv2.CascadeClassifier("C:\\Users\\Mongol\\Desktop\\cv\\haarcascade_frontalface_default.xml")
