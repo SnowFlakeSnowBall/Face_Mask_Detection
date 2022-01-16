@@ -2,8 +2,10 @@
 
 ## How to use:
 
-**1. Install reuirements;**
-
+**1. Install reuirements:**
+```
+$ pip install -r requirements.txt
+```
 **2. PLatforms:**
 - For Windows: Run like usual python programm;
 - For MacOS: change path in code for .xml, .h5, .jpeg:
