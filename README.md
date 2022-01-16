@@ -6,7 +6,7 @@
 
 **2. PLatforms:**
 - For Windows: Run like usual python programm;
-- For MacOS: change path in code for .xml, .h5, .photo:
+- For MacOS: change path in code for .xml, .h5, .jpeg:
 ```
 faceCascade = cv2.CascadeClassifier("C:\\Users\\Mongol\\Desktop\\cv\\haarcascade_frontalface_default.xml")
 model = load_model("C:\\Users\\Mongol\\Desktop\\cv\\model.h5")
