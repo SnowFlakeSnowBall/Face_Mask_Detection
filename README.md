@@ -15,3 +15,9 @@ input_image = cv2.imread("C:\\Users\\Mongol\\Desktop\\cv\\mask.jpeg")
 - For Linux: Has not been tested
 
 **3. Allow the programm to use webcam (if required)**
+
+## FILES:
+
+**CSV.py** - Works with photo. 
+
+**RT_MD_OCV.py** - Works with webcam. 
